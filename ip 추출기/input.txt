@@ -1,0 +1,9 @@
+<ip type="single">203.248.240.140</ip>
+		<ip type="single">168.126.3.6</ip>
+		<ip type="single">210.98.16.100</ip>
+		<ip type="single">129.6.15.26</ip>
+		<ip type="single">52.231.114.183</ip>
+		<ip type="single">121.174.142.81</ip>
+		<ip type="single">17.253.116.253</ip>
+		<ip type="single">216.239.35.4</ip>
+		<ip type="single">220.73.142.66</ip>
